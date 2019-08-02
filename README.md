@@ -19,4 +19,4 @@ i.e. we are searching the query concurrently over title (in case of an Html doc)
 body of the text.
 c. We displayed top ten search results, with their Ranks, Relevance Scores, File names,
 Titles (If an HTML document), Paths.
-NOTE: File InformationRetrieval.Java contains the main source. All dependencies are also uploaded.
+NOTE: File InformationRetrievalSystem.Java contains the main source code. All dependencies are also uploaded.
